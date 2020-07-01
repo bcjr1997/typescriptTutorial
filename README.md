@@ -1,2 +1,3 @@
-# webpackTutorial
-Learning how to develop with Webpack
+# TypeScript Tutorial 
+## Learning how to develop a web application using TypeScript
+
